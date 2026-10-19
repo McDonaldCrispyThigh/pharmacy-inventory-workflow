@@ -1,0 +1,6 @@
+﻿Signal group,Included,Excluded,Total
+Google pharmacy place type,403,64,467
+Google drugstore place type only,100,7,107
+Pharmacy wording in the name or web address only,10,60,70
+Recognized brand only (CVS or Walgreens),13,19,32
+No prespecified signal,66,"1,320","1,386"

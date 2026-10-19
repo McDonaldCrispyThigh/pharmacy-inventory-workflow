@@ -1,0 +1,9 @@
+﻿Measure,Count,Denominator,Percent
+Address groups with 1 Place ID,160,272,58.82
+Address groups with 2 Place IDs,85,272,31.25
+Address groups with 3 Place IDs,25,272,9.19
+Address groups with 4 Place IDs,2,272,0.74
+Unmatched records sharing an address with another included record,154,252,61.11
+Unmatched records sharing an address with a linked record,125,252,49.60
+Unmatched records with a qualified pair,123,252,48.81
+Unmatched records lacking a qualified pair,129,252,51.19

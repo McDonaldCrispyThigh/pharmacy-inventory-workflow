@@ -1,0 +1,40 @@
+﻿License,Board facility name,Mailing address,County,Name group,Cache status,Location check
+260334,"SUPERVALU Pharmacies, Inc. (dba) Cub Pharmacy #1612/602","1801 Market Drive, Stillwater 55082",Washington,Repeated,No_Match,Not linked
+261414,"SUPERVALU Pharmacies, Inc., (dba) Cub Pharmacy (1629/679)","3930 Silver Lake Road, St Anthony 55421",Hennepin,Repeated,No_Match,"Included candidate, 3930 Silver Lake Rd NE (98.3)"
+262067,"PETNET Solutions, Inc","2021 6th St Se, Minneapolis 55455",Hennepin,Single,Tie,"Excluded candidate, 2021 6th St SE (63.25)"
+262091,Walgreen Co. (dba) WALGREENS (#06735),"3700 Silver Lake Rd NE, St Anthony 55421",Hennepin,Repeated,No_Match,"Included candidate, 3700 Silver Lake Rd NE (100.0)"
+262217,Walgreen Co. (dba) WALGREENS (#06730),"1511 Highway 7, Hopkins 55305",Hennepin,Repeated,No_Match,"Included candidate, 1511 MN-7 (96.73)"
+262258,Walmart Inc. (dba) Walmart Pharmacy,"8101 Old Carriage Court, Shakopee 55379",Scott,Repeated,No_Match,"Included candidate, 8101 Old Carriage Ct (100.0)"
+262372,Walgreen Co. (dba) Walgreens (#07812),"21495 141st Avenue North, Rogers 55374",Hennepin,Repeated,Not geocoded,Not linked
+262448,Walgreen Co. (dba) Walgreens (#02316),"2024 85th Avenue North, Brooklyn Park 55444",Hennepin,Repeated,No_Match,"Included candidate, 2024 85th Ave N (100.0)"
+262947,"SUPERVALU Pharmacies, Inc. (dba) Cub Pharmacy","13855 Rogers Drive, Rogers 55374",Hennepin,Repeated,Not geocoded,Not linked
+262982,SMSC Pharmacy,"15045 Mystic Lake Drive, Prior Lake 55372",Scott,Single,Not geocoded,"Included candidate, 15045 Mystic Lake Dr (100.0)"
+263154,Walgreen Co. (dba) Walgreens ,"10905 Ulysses St Ne, Blaine 55434",Anoka,Repeated,No_Match,"Included candidate, 10905 Ulysses St NE (100.0)"
+263239,"CareCenter Pharmacy, LLC (dba) CarePlus CVS/pharmacy #2937","3M Center Bldg. 222-1N1, St Paul 55144",Ramsey,Single,Not geocoded,Not linked
+263352,"Grand St. Paul CVS, LLC (dba) CVS/Pharmacy #04696","21455 John Milless Drive, Rogers 55374",Hennepin,Repeated,Not geocoded,"Included candidate, 21455 John Milless Dr (100.0)"
+263798,"Grand St. Paul CVS, L.L.C. (dba) CVS/pharmacy #4658","7932 27th Ave N, New Hope 55427",Hennepin,Repeated,No_Match,"Included candidate, 7932 27th Ave N (100.0)"
+264453,"SUPERVALU Pharmacies, Inc. (dba) Cub Pharmacy (#1695)","1276 Town Centre Dr, Eagan 55123",Dakota,Repeated,No_Match,"Included candidate, 1276 Town Centre Dr (100.0)"
+264640,Genoa Healthcare LLC,"1930 Coon Rapids Blvd NW, Coon Rapids 55433",Anoka,Repeated,No_Match,"Included candidate, 1930 Coon Rapids Blvd NW (100.0)"
+264657,Genoa Healthcare LLC,"3101 Old Highway 8, Suite 203-B, Roseville 55113",Ramsey,Repeated,No_Match,"Included candidate, 3101 Old Hwy 8 (100.0)"
+264889,"Grand St. Paul CVS, L.L.C. (dba) CVS/pharmacy #17368","6445 Richfield Pkwy, Richfield 55423",Hennepin,Repeated,No_Match,"Included candidate, 6445 Richfield Pkwy N (98.64)"
+264894,"Grand St. Paul CVS, L.L.C. (dba) CVS/pharmacy #17273","15300 Grove Circle N, Maple Grove 55369",Hennepin,Repeated,No_Match,"Included candidate, 15300 Grove Cir N (100.0)"
+264901,"Grand St. Paul CVS, LLC (dba) CVS/Pharmacy #16078","3601 Highway 100 S, St Louis Park 55416",Hennepin,Repeated,No_Match,"Included candidate, 3601 MN-100 (97.45)"
+264907,"Grand St. Paul CVS, L.L.C. (dba) CVS/pharmacy #17466","449 Commerce Dr, Woodbury 55125",Dakota,Repeated,No_Match,Not linked
+264925,"Grand St. Paul CVS, LLC (dba) CVS/pharmacy #16788","21615 S Diamond Lake Rd, Rogers 55374",Hennepin,Repeated,Not geocoded,"Included candidate, 21615 S Diamond Lake Rd (100.0)"
+264927,"Grand St. Paul CVS, LLC (dba) CVS/pharmacy #16954","14333 Highway 13 S, Savage 55378",Scott,Repeated,No_Match,Not linked
+264928,"Grand St. Paul CVS, LLC (dba) CVS/pharmacy #16780","749 Apollo Dr, Lino Lakes 55014",Anoka,Repeated,No_Match,Not linked
+264946,"Grand St. Paul CVS, LLC (dba) CVS/pharmacy #17218","7900 32nd St N, Oakdale 55128",Washington,Repeated,No_Match,"Included candidate, 7900 32nd St N (100.0)"
+264948,"Grand St. Paul CVS, LLC (dba) CVS/Pharmacy #16002","2555 W 79th St, Bloomington 55431",Hennepin,Repeated,No_Match,"Included candidate, 2555 W 79th St (100.0)"
+265097,"Hy-Vee, Inc.","9409 Zane Ave N, Brooklyn Park 55443",Hennepin,Repeated,No_Match,"Included candidate, 9409 Zane Ave N (100.0)"
+265506,HCMC CSC Pharmacy,"715 8th Street S, Minneapolis 55404",Hennepin,Single,No_Match,"Included candidate, 715 S 8th St (65.24)"
+265507,Bloomington Drug Co.,"509 West 98th St, Bloomington 55420",Hennepin,Single,No_Match,"Included candidate, 509 W 98th St (100.0)"
+265639,"Hy-Vee, Inc.","3505 Bottineau Blvd, Robbinsdale 55422",Hennepin,Repeated,No_Match,"Included candidate, 3505 Bottineau Blvd (100.0)"
+265661,Genoa Healthcare LLC,"4027 County Road 25, Suite P, St Louis Park 55416",Hennepin,Repeated,No_Match,"Included candidate, 4027 County Rd 25 (100.0)"
+265684,"Grand St. Paul CVS, L.L.C. (dba) CVS/pharmacy #11070","4400 Oak Grove Pkwy N., Brooklyn Park 55443",Hennepin,Repeated,No_Match,"Included candidate, 4400 Oak Grove Pkwy (98.64)"
+265921,"Hy-Vee, Inc.","18755 70th Way North, Maple Grove 55311",Hennepin,Repeated,No_Match,"Included candidate, 18755 70th Wy N (99.29)"
+265922,"Hopkins Center Drug, Inc.","913 Hopkins Center, Hopkins 55343",Hennepin,Single,No_Match,"Included candidate, 913 Hopkins Center (100.0)"
+266013,"SUPERVALU Pharmacies, Inc. (dba) Cub Pharmacy (#1587)","4601 Snelling Ave South, Minneapolis 55406",Hennepin,Repeated,No_Match,"Included candidate, 4601 Snelling Ave (98.51)"
+266057,Evexia RX LLC (dba) Purescripts,"Evexia Rx Llc, 5206 West 84th Street, Bloomington 55437",Hennepin,Single,No_Match,Not linked
+266303,HCMC Specialty Services Pharmacy,"Hennepin Healthcare System, Inc., 716 South 7th St, Minneapolis 55415",Hennepin,Single,No_Match,Not linked
+266548,"Hy-Vee, Inc. ","505 Hope Dr, Suite B, Eagan 55121",Dakota,Repeated,No_Match,Not linked
+266651,"PrairieCare, LLC (dba) PrairieCare","9400 Zane Ave N, Brooklyn Park 55443",Hennepin,Single,No_Match,Not linked

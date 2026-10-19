@@ -1,0 +1,7 @@
+﻿Scenario,Miles,n,Both within,Both beyond,W only within,B only within,Discordant n (%)
+Geometric centroid,0.5,327,103,176,39,9,48 (14.68%)
+Common-frame interior,0.5,318,96,175,37,10,47 (14.78%)
+Geometric centroid,1.0,327,241,42,39,5,44 (13.46%)
+Common-frame interior,1.0,305,219,41,40,5,45 (14.75%)
+Geometric centroid,2.0,327,321,1,5,0,5 (1.53%)
+Common-frame interior,2.0,269,266,0,3,0,3 (1.12%)

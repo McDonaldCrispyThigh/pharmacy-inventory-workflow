@@ -1,0 +1,10 @@
+﻿Measure,Count or value,Denominator
+Excluded candidates with a qualified pair,125,"1,335"
+Judged non-target,125,125
+Judged active,124,125
+Judged plausible,78,125
+Identity consistent,98,125
+Sharing an address with an included record,73,125
+Highest-scoring Board record already linked to an included record,117,125
+Mean / median of highest score,70.06 / 69.70,0–100
+Range of highest score,60.41–100.00,0–100

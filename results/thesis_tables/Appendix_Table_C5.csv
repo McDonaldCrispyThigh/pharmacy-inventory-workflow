@@ -1,0 +1,9 @@
+﻿Negative judgments,Excluded records,Percent of 1470
+Identity inconsistent,3,0.20
+Non-target,688,46.80
+Non-target + Identity inconsistent,17,1.16
+Non-target + Implausible,699,47.55
+Non-target + Implausible + Identity inconsistent,50,3.40
+Non-target + Inactive,2,0.14
+Non-target + Inactive + Implausible,5,0.34
+Non-target + Inactive + Implausible + Identity inconsistent,6,0.41

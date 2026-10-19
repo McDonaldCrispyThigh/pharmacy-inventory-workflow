@@ -1,0 +1,7 @@
+﻿Cohort,Historical reporting stratum,Include,Exclude,Technical-unresolved,Total
+Suppl.,Outside historical 99-ZIP supply frame,1,8,0,9
+Suppl.,Primary 60-ZIP frame,40,724,0,764
+Suppl.,"Historical 99-ZIP supply frame, outside 60 targets",12,51,0,63
+Combined,Outside historical 99-ZIP supply frame,1,8,0,9
+Combined,Primary 60-ZIP frame,413,1335,0,1748
+Combined,"Historical 99-ZIP supply frame, outside 60 targets",178,127,0,305

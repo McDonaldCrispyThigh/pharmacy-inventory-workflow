@@ -1,0 +1,11 @@
+﻿Problem,Correction,Outcome
+V1 lacked stable Place IDs and complete retrieval records,V2 adopted the Place ID as the candidate unit and saved reconstructable evidence packets,Location grouping retained as a sensitivity analysis (B.1)
+Condition C of the evidence-order pilot lacked substantive archived pages,Archive acquisition repaired,"Pilot tested only the execution process (8 candidates, 24 outputs; B.2)"
+Index extraction and transport failures dominated the first corrected acquisition,Classification stopped; failure records preserved,Failure states recorded separately from archive absence (B.3)
+Low page-retrieval success in the 40-candidate diagnostic,Snapshot discovery separated from page retrieval,Outsourced extracted text used only after official snapshot confirmation (B.3)
+Transport failures in direct replay,Standalone HTTP fetcher built,Raw HTML retrieved for all 31 frozen snapshots (B.4)
+Remaining binding and parsing gaps in the archive,Closure under narrow rules; direct retrieval of missing snapshots,653 original-cohort candidates with usable text (B.4)
+70 original classifications failed technical validation,Exact IDs validated; saved valid responses recovered; 9 retried,"Final result for the original cohort: 539 included, 687 excluded (B.5)"
+Search reached the 60-result ceiling,Rectangle subdivision of affected areas; one further subdivision in 55369,836 supplemental candidates entered the same evidence and classification process (B.6)
+Spatial supply frames of the two inventories differed after expansion,Union of all candidate ZIPs adopted as the common frame,RQ3 uses 102 ZIPs and RQ2 uses 60 (B.7)
+Linkage parameters set by judgment,"Calibrated across 3,087 combinations against 270 manually read pairs","Primary setting changed to (1.2, 90, 0.90, 60); previous setting kept as a sensitivity analysis (B.8)"

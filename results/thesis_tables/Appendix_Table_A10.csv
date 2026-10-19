@@ -1,0 +1,10 @@
+﻿Dimension,Primary analysis,Alternative or conditional rule
+Workflow eligibility,Included records with coordinates in the common frame,"Include plus technical-unresolved; with 0 technical-unresolved records, results match the primary analysis"
+Board eligibility,Screened Active records with coordinates in the common frame,Name screen removed; all Active records with coordinates in the same frame
+Board coordinates,All usable cached coordinates,Screened records with match type Exact only
+Origin,TIGER internal point,"Geometric centroid of each of the same 327 tract polygons, in projected coordinates"
+Frame interior,All 327 origins,"At each threshold, only origins farther than the threshold from the boundary of the common supply ZCTA union; supply unchanged"
+Threshold perturbation,"0.5, 1, and 2 miles","Each threshold minus 4 meters and plus 4 meters, applied to both inventories"
+Weighting,Weight of 1 for each tract,Population or household weights; summed weight of discordant tracts divided by total weight
+Missing Board coordinates,Board supply with coordinates only,"Records lacking coordinates placed within the ZCTA of their mailing ZIP, using the minimum distance from the origin to that polygon; 0 when the origin lies inside the polygon or the polygon is missing"
+Supply beyond the frame,Observed inventory points,"Supply allowed outside the common supply ZCTA boundary, combined with the scenario for missing Board coordinates; origin states classified as determinate or conditionally unresolved"

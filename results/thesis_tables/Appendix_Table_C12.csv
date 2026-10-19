@@ -1,0 +1,5 @@
+﻿Workflow / Board,Workflow n,Board n,Links,Unmatched (workflow / Board),Precision / recall (%)
+Included / screened Board (primary),413,178,161,252 / 17,38.98 / 90.45
+Included / all Active Board,413,245,198,215 / 47,47.94 / 80.82
+Excluded / screened Board,"1,335",178,90,"1,245 / 88",6.74 / 50.56
+All candidates / screened Board,"1,748",178,167,"1,581 / 11",9.55 / 93.82

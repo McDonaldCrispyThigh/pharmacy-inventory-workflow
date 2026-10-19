@@ -1,0 +1,10 @@
+threshold_miles,weighting,denominator_weight,discordant_weight,weight_column,weighted_pct,count,pct
+0.5,household_weighted,516929.0,79614.0,total_hh,15.4,,
+0.5,population_weighted,1236243.0,179103.0,total_pop,14.49,,
+0.5,unweighted,,,,,48.0,14.68
+1.0,household_weighted,516929.0,71348.0,total_hh,13.8,,
+1.0,population_weighted,1236243.0,175533.0,total_pop,14.2,,
+1.0,unweighted,,,,,46.0,14.07
+2.0,household_weighted,516929.0,6771.0,total_hh,1.31,,
+2.0,population_weighted,1236243.0,19745.0,total_pop,1.6,,
+2.0,unweighted,,,,,4.0,1.22

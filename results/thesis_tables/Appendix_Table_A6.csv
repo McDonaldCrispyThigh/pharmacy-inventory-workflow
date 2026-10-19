@@ -1,0 +1,15 @@
+﻿Block and field,Verbatim text
+AUTHENTICATED_CONTRACT_JSON: target_definition,"One current, public-facing prescription-dispensing pharmacy outlet or pharmacy department named by the listing."
+AUTHENTICATED_CONTRACT_JSON: candidate_unit,one fixed Google Place ID
+AUTHENTICATED_CONTRACT_JSON: core_labels,"business_status: active, inactive; candidate_plausibility: implausible, plausible; identity_consistency: consistent, inconsistent; target_construct_status: non_target, target_pharmacy"
+AUTHENTICATED_CONTRACT_JSON: ordinary_uncertainty_rule,"Sparse evidence, missing reviews, missing website, missing Wayback evidence, or low confidence does not permit abstention on a core judgment."
+AUTHENTICATED_CONTRACT_JSON: historical_year_rule,Historical year remains evidence bounded and may be unknown.
+AUTHENTICATED_CONTRACT_JSON: board_blind,true
+AUTHENTICATED_ARCHIVE_INTERPRETATION_JSON: active_by_rule,Only source IDs explicitly flagged active_by_eligible=true may support active_by_upper_bound; use the earliest eligible supplied year. Outlet scope or capture time alone is insufficient.
+AUTHENTICATED_ARCHIVE_INTERPRETATION_JSON: opening_rule,Only eligible explicit opening claims and their supplied IDs may support explicit_archived_opening_claim. Otherwise use unknown/null/NotAssessable and no historical citations.
+AUTHENTICATED_ARCHIVE_INTERPRETATION_JSON: bounded_lookup_rule,No snapshot returned under the fixed schedule is not exhaustive evidence of archive absence.
+AUTHENTICATED_ARCHIVE_INTERPRETATION_JSON: full_text_policy,"All supplied Google review text and accepted locally parsed archive text are retained in full, in source order; no raw HTML is supplied."
+AUTHENTICATED_ARCHIVE_INTERPRETATION_JSON: technical_states_rule,"Unusable, failed, and quarantined objects provide no archived page text. Partial history gaps do not negate independently verified text from other captures."
+AUTHENTICATED_ARCHIVE_INTERPRETATION_JSON: archive_is_not_a_fifth_eligibility_criterion,true
+AUTHENTICATED_ARCHIVE_INTERPRETATION_JSON: missing_archive_does_not_permit_abstention,true
+AUTHENTICATED_ARCHIVE_INTERPRETATION_JSON: text_scope_does_not_alone_support_a_historical_year,true

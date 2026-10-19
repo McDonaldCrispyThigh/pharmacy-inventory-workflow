@@ -1,0 +1,4 @@
+﻿Order and reason code,Keywords (whole-word match)
+1 institutional_or_hospital,"hospital, clinic, medical center, health system, outpatient, mental health, drug monitoring; health-system and institution names (Allina, Fairview, HealthPartners, Hennepin Healthcare, M Health, Regions, North Memorial, Park Nicollet, United Hospital, Children’s, Abbott, University of Minnesota, VA and veterans, Accredo, Acadia)"
+2 noncommunity_service,"infusion and home infusion, IV therapy, long-term care and LTC, mail order and mail service, nuclear and radiopharm, correctional, institutional, prison, hospice, renal, dialysis, veterinary and animal, oncology, chemotherapy, Coram"
+3 compounding_only,"compounding followed by only, pharmacy, center, or lab"

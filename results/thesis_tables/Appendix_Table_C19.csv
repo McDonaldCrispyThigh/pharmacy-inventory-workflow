@@ -1,0 +1,8 @@
+﻿Category,Address groups,Records,Examples,Status
+Health-system pharmacy (hospital systems and clinic networks),43,53,Fairview Pharmacy – Highland Park; Allina Health United Pharmacy; Hennepin Healthcare Whittier Clinic & Pharmacy; North Memorial Health Pharmacy – Robbinsdale; Regions Hospital,Pharmacy outside the screened Board list; 29 match a Board record removed by the name screen
+Chain supermarket or retail pharmacy,20,22,"Cub (9), CVS (4), Walgreens (3), Lunds & Byerlys (3), Target (1)",Pharmacy
+"Other pharmacy (independent, specialty, long-term care)",15,16,A to Z Pharmacy; Robin Drug Corporation; Purescripts Compounding Pharmacy; Optum Infusion Pharmacy; Lotus Pharmacy,Pharmacy
+Veterinary or pet establishment,18,18,"Vet Partners (4), Banfield Pet Hospital (3), Pet Supplies Plus (3), PetSmart (2), animal or equine hospitals (6)",Classification error
+Individual pharmacist or physician,11,14,Personal listings (names withheld; Table C15b),Classification error
+Other establishment,4,4,"An opioid treatment center, a first-aid supply company, a hearing center, and a market listing",Nontarget
+Total,111,127,,

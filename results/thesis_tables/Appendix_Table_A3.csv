@@ -1,0 +1,7 @@
+﻿Rule,Handling
+Removed elements,"head, script, style, noscript, template, svg, canvas, and iframe"
+Hidden content,"hidden attribute, aria-hidden=true, inline display:none or visibility:hidden, and the Wayback toolbar"
+Line breaks,"Line breaks before and after block-level elements such as paragraphs, headings, lists, and table cells"
+Secondary context,"blockquote, q, and elements whose ID or class contains review, comment, or testimonial"
+Rejected pages,"Verification challenge pages, meta refresh redirect pages, archive or server error pages, access-denied pages, and pages lacking alphanumeric content"
+Retained text,"Navigation, headers, and footers retained as usual; HTML character references decoded, whitespace collapsed, and empty lines removed"

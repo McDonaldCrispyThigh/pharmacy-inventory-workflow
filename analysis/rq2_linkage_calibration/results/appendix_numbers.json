@@ -1,0 +1,464 @@
+{
+ "C11": {
+  "name_only": {
+   "links": 161,
+   "un_w": 252,
+   "un_b": 17,
+   "precision": 38.98,
+   "recall": 90.45,
+   "same_as_main": 127
+  },
+  "address_only": {
+   "links": 162,
+   "un_w": 251,
+   "un_b": 16,
+   "precision": 39.23,
+   "recall": 91.01,
+   "same_as_main": 135
+  },
+  "name_address": {
+   "links": 161,
+   "un_w": 252,
+   "un_b": 17,
+   "precision": 38.98,
+   "recall": 90.45,
+   "same_as_main": 161
+  },
+  "name_address_geo": {
+   "links": 161,
+   "un_w": 252,
+   "un_b": 17,
+   "precision": 38.98,
+   "recall": 90.45,
+   "same_as_main": 132
+  },
+  "max_cardinality": {
+   "links": 161,
+   "un_w": 252,
+   "un_b": 17,
+   "precision": 38.98,
+   "recall": 90.45,
+   "same_as_main": 161
+  },
+  "previous_setting": {
+   "links": 150,
+   "un_w": 263,
+   "un_b": 28,
+   "precision": 36.32,
+   "recall": 84.27,
+   "same_as_main": 150
+  },
+  "location_groups": {
+   "links": 161,
+   "un_w": 111,
+   "un_b": 17,
+   "precision": 59.19,
+   "recall": 90.45
+  }
+ },
+ "C12": {
+  "included_screened": {
+   "links": 161,
+   "un_w": 252,
+   "un_b": 17,
+   "precision": 38.98,
+   "recall": 90.45
+  },
+  "included_allactive": {
+   "links": 198,
+   "un_w": 215,
+   "un_b": 47,
+   "precision": 47.94,
+   "recall": 80.82
+  },
+  "excluded_screened": {
+   "links": 90,
+   "un_w": 1245,
+   "un_b": 88,
+   "precision": 6.74,
+   "recall": 50.56
+  },
+  "all_screened": {
+   "links": 167,
+   "un_w": 1581,
+   "un_b": 11,
+   "precision": 9.55,
+   "recall": 93.82
+  }
+ },
+ "C13": {
+  "raw_place": {
+   "links": 167,
+   "un_w": 1581,
+   "un_b": 11,
+   "precision": 9.55,
+   "recall": 93.82
+  },
+  "inc_place": {
+   "links": 161,
+   "un_w": 252,
+   "un_b": 17,
+   "precision": 38.98,
+   "recall": 90.45
+  },
+  "raw_groups": {
+   "links": 167,
+   "un_w": 1260,
+   "un_b": 11,
+   "precision": 11.7,
+   "recall": 93.82
+  },
+  "inc_groups": {
+   "links": 161,
+   "un_w": 111,
+   "un_b": 17,
+   "precision": 59.19,
+   "recall": 90.45
+  },
+  "retained": 161,
+  "pre_board": 167,
+  "same_endpoint": 158
+ },
+ "C14A": {
+  "inc_edge": 284,
+  "exc_edge": 125,
+  "inc_noedge": 129,
+  "exc_noedge": 1210
+ },
+ "C14B": {
+  "no_raw_edge": 11,
+  "only_excluded": 6,
+  "inc_edge_unassigned": 0,
+  "matched": 161
+ },
+ "C15": {
+  "group_sizes": {
+   "1": 160,
+   "2": 85,
+   "3": 25,
+   "4": 2
+  },
+  "n_groups": 272,
+  "unmatched": 252,
+  "unmatched_shared": 154,
+  "unmatched_colocated_matched": 125,
+  "unmatched_with_edge": 123,
+  "unmatched_no_edge": 129
+ },
+ "C16": {
+  "n": 125,
+  "target": {
+   "non_target": 125
+  },
+  "business": {
+   "active": 124,
+   "inactive": 1
+  },
+  "plaus": {
+   "plausible": 78,
+   "implausible": 47
+  },
+  "identity": {
+   "consistent": 98,
+   "inconsistent": 27
+  },
+  "top_board_covered": 117,
+  "any_board_covered": 117,
+  "shares_key_with_included": 73,
+  "top_mean": 70.06,
+  "top_median": 69.7,
+  "top_min": 60.41,
+  "top_max": 100.0,
+  "names": [
+   "The Aliveness Project | 3808 Nicollet Ave, Minneapolis, MN 55409, USA -> The Aliveness Project, Inc. (dba) THRIVE Rx (66.40)",
+   "CDReload by Crypto Dispensers - CVS Pharmacy | 3800 Lexington Ave N, St Paul, MN 55126, USA -> Grand St. Paul CVS, LLC (dba) CVS/Pharmacy #16163 (62.12)",
+   "Medical Waste Pros | 615 Cedar Ave, Minneapolis, MN 55454, USA -> Hikma Pharmacy Inc. (60.41)",
+   "CDReload by Crypto Dispensers - CVS Pharmacy | 7535 W Broadway, Minneapolis, MN 55428, USA -> Grand St. Paul CVS, L.L.C. (dba) CVS/pharmacy #16213 (62.12)",
+   "Cardinal Health | 1933 County Rd C2 W, St Paul, MN 55113, USA -> Cardinal Health 414, LLC (100.00)",
+   "Hmong Village | 1001 Johnson Pkwy, St Paul, MN 55106, USA -> Phalen Family Pharmacy, Ltd.  (72.03)",
+   "CDReload by Crypto Dispensers - CVS Pharmacy | 1650 New Brighton Blvd, Minneapolis, MN 55413, USA -> Grand St. Paul CVS, L.L.C. (dba) CVS/pharmacy #16471 (62.12)",
+   "Center for Clinical Imaging Research | 2021 6th St SE, Minneapolis, MN 55414, USA -> PETNET Solutions, Inc (63.25)",
+   "CDReload by Crypto Dispensers - CVS Pharmacy | 4152 Lakeland Ave N, Minneapolis, MN 55422, USA -> Grand St. Paul CVS, LLC (dba) CVS/Pharmacy #1129 (62.12)",
+   "Hy-Vee Wine & Spirits | 16705 County Rd 24, Plymouth, MN 55447, USA -> Hy-Vee, Inc. (76.36)",
+   "Almsted's Fresh Market | 4200 Douglas Dr N, Crystal, MN 55422, USA -> Walgreen Co. (dba) Walgreens (#05882) (61.84)",
+   "Ezy Urgent Care Clinic | 1001 Johnson Pkwy Ste a3, St Paul, MN 55106, USA -> Phalen Family Pharmacy, Ltd.  (70.13)",
+   "Love is an Ingredient - THC Store | 4110 Central Ave NE #208, Columbia Heights, MN 55421, USA -> Afdahl Pharmacy PLLC (dba) MedPoint Pharmacy (68.32)",
+   "Costco Gas Station | 11330 Fountains Way, Maple Grove, MN 55369, USA -> Costco Wholesale Corporation (dba) Costco Pharmacy #648 (75.91)",
+   "Costco Optical Department | 11330 Fountains Dr, Maple Grove, MN 55369, USA -> Costco Wholesale Corporation (dba) Costco Pharmacy #648 (70.78)",
+   "Costco hearing aid store | 11330 Fountains Dr, Maple Grove, MN 55369, USA -> Costco Wholesale Corporation (dba) Costco Pharmacy #648 (75.91)",
+   "COVID-19 Drive-Thru Testing at Walgreens | 2650 Hennepin Ave, Minneapolis, MN 55408, USA -> Walgreen Co. (dba) Walgreens #16361 (72.33)",
+   "One on One Bicycle Studio | 4001 Bryant Ave S, Minneapolis, MN 55409, USA -> Badger Acquisition Of Minnesota LLC (dba) Omnicare of Minnesota (60.68)",
+   "CNS Inc | 4400 W 78th St, Minneapolis, MN 55435, USA -> Grand St. Paul CVS, L.L.C. (dba) CVS/pharmacy #11070 (72.68)",
+   "CDReload by Crypto Dispensers - CVS Pharmacy | 1744 Suburban Ave, St Paul, MN 55106, USA -> Grand St. Paul CVS, LLC (dba) CVS/Pharmacy #16015 (62.12)",
+   "COVID-19 Drive-Thru Testing at Walgreens | 7700 Brooklyn Blvd, Brooklyn Park, MN 55443, USA -> Walgreen Co. (dba) Walgreens (#03832) (72.33)",
+   "COVID-19 Drive-thru Testing at Walgreens | 6390 Brooklyn Blvd, Brooklyn Center, MN 55429, USA -> Walgreen Co. (dba) Walgreens #04320 (72.33)",
+   "MinuteClinic at CVS | 1010 W Lake St, Minneapolis, MN 55408, USA -> Grand St. Paul CVS, LLC (dba) CVS/pharmacy #8285 (66.94)",
+   "Pediatric Home Service | 2800 Cleveland Ave N, Roseville, MN 55113, USA -> Pediatric Home Respiratory Services, LLC (dba) Pediatric Home Service (100.00)",
+   "Crisp and Green | 2700 Annapolis Cir N, Plymouth, MN 55441, USA -> Walgreen Co. (dba) Walgreens #15560 (66.42)",
+   "Hy-Vee Wine & Spirits | 8200 N 42nd Ave, New Hope, MN 55428, USA -> Hy-Vee, Inc. (dba) Hy-Vee Pharmacy (#1439) (68.73)",
+   "COVID-19 Drive-Thru Testing at Walgreens | 3255 Vicksburg Ln N, Plymouth, MN 55447, USA -> Walgreen Co. (dba) Walgreens #01002 (72.33)",
+   "La Clinica | 153 Cesar Chavez St, West St Paul, MN 55107, USA -> West Side Community Health Services, Inc (dba) West Side Community Health Services Pharmacy (64.65)",
+   "Walgreens 2635 Rice ST - Cardtronics ATM | 2635 Rice St Walgreens, Roseville, MN 55113, USA -> Walgreen Co. (dba) Walgreens #13685 (71.00)",
+   "CVS Photo | 4152 Lakeland Ave N, Robbinsdale, MN 55422, USA -> Grand St. Paul CVS, LLC (dba) CVS/Pharmacy #1129 (77.27)",
+   "Barnes & Noble | 2100 Snelling Ave N, Roseville, MN 55113, USA -> SUPERVALU Pharmacies, Inc. (dba) Cub Pharmacy #1932/715 (60.61)",
+   "CDReload by Crypto Dispensers - CVS Pharmacy | 30 Fairview Ave S, St Paul, MN 55105, USA -> Grand St. Paul CVS, LLC (dba) CVS/Pharmacy #10902 (62.12)",
+   "CDReload by Crypto Dispensers - CVS Pharmacy | 8600 Springbrook Dr NW, Minneapolis, MN 55433, USA -> Grand St. Paul CVS, LLC (dba) CVS/pharmacy #16267 (62.12)",
+   "Dollar General | 4080 W Broadway, Robbinsdale, MN 55422, USA -> Robbinsdale Pharmacy Inc (69.09)",
+   "Passport Health St. Paul Travel Clinic | 1600 University Ave W #207, St Paul, MN 55104, USA -> Genoa Healthcare LLC (73.41)",
+   "CDReload by Crypto Dispensers - CVS Pharmacy | 1471 S Robert St, St Paul, MN 55118, USA -> Grand St. Paul CVS, LLC (dba) CVS/pharmacy  #3313 (62.12)",
+   "CDReload by Crypto Dispensers - CVS Pharmacy | 4400 Oak Grove Pkwy, Minneapolis, MN 55443, USA -> Grand St. Paul CVS, L.L.C. (dba) CVS/pharmacy #11070 (60.76)",
+   "RMS Co | 8600 Evergreen Blvd, Minneapolis, MN 55433, USA -> Grand St. Paul CVS, LLC (dba) CVS/pharmacy #16267 (65.70)",
+   "COVID-19 Drive-Thru Testing at Walgreens | 4005 Vinewood Ln N, Plymouth, MN 55442, USA -> Walgreen Co. (dba) WALGREENS (72.33)",
+   "Costco Wholesale | 12547 Riverdale Blvd, Coon Rapids, MN 55448, USA -> Costco Wholesale Corporation (dba) Costco Pharmacy #372 (90.00)",
+   "COVID-19 Drive-Thru Testing at Walgreens | 2635 Rice St Walgreens, Roseville, MN 55113, USA -> Walgreen Co. (dba) Walgreens #13685 (69.30)",
+   "CDReload by Crypto Dispensers - CVS Pharmacy | 3300 124th Ave NW, Minneapolis, MN 55433, USA -> Grand St. Paul CVS, L.L.C. (dba) CVS/pharmacy #16508 (62.12)",
+   "Walmart Vision & Glasses | 1960 Twin Lakes Pkwy, Roseville, MN 55113, USA -> Walmart Inc. (dba) Walmart Pharmacy (#3404) (76.49)",
+   "CVS Photo | 6540 Penn Ave S, Richfield, MN 55423, USA -> Grand St. Paul CVS, L.L.C. (dba) CVS/pharmacy #2152 (77.27)",
+   "MinuteClinic at CVS | 1040 Grand Ave, St Paul, MN 55105, USA -> Grand St. Paul CVS, LLC (dba) CVS/Pharmacy #5161 (66.94)",
+   "CDReload by Crypto Dispensers - CVS Pharmacy | 10930 University Ave NW, Minneapolis, MN 55448, USA -> Grand St. Paul CVS, L.L.C. (dba) CVS/pharmacy #1303 (62.12)",
+   "COVID-19 Drive-Thru Testing at Walgreens | 10686 University Ave NW, Coon Rapids, MN 55448, USA -> Walgreen Co. (dba) WALGREENS (#02935) (72.33)",
+   "CVS Photo | 10930 University Ave NW, Coon Rapids, MN 55448, USA -> Grand St. Paul CVS, L.L.C. (dba) CVS/pharmacy #1303 (77.27)",
+   "CDReload by Crypto Dispensers - CVS Pharmacy | 6540 Penn Ave S, Minneapolis, MN 55423, USA -> Grand St. Paul CVS, L.L.C. (dba) CVS/pharmacy #2152 (62.12)",
+   "CVS Photo | 7932 27th Ave N, New Hope, MN 55427, USA -> Grand St. Paul CVS, L.L.C. (dba) CVS/pharmacy #4658 (77.27)",
+   "MinuteClinic | 1650 New Brighton Blvd, Minneapolis, MN 55413, USA -> Grand St. Paul CVS, L.L.C. (dba) CVS/pharmacy #16471 (60.61)",
+   "COVID-19 Drive-Thru Testing at Walgreens | 2500 Winnetka Ave N, Golden Valley, MN 55427, USA -> Walgreen Co. (dba) Walgreens #13841 (72.33)",
+   "Hy-Vee Grocery Store | 8155 Hwy 65 NE, Spring Lake Park, MN 55432, USA -> Hy-Vee, Inc. (81.82)",
+   "United Family Medicine: Balasubrahmany Ravi MD | 1026 7th St W, St Paul, MN 55102, USA -> United Family Practice Health Center (dba) Riverland Community Health Center (70.66)",
+   "United Family Medicine: Meyer Dain T MD | 1026 7th St W, St Paul, MN 55102, USA -> United Family Practice Health Center (dba) Riverland Community Health Center (69.70)",
+   "CDReload by Crypto Dispensers - CVS Pharmacy | 1329 5th St SE, Minneapolis, MN 55414, USA -> Grand St. Paul CVS, LLC (dba) CVS/pharmacy #17671 (62.12)",
+   "COVID-19 Drive-Thru Testing at Walgreens | 1110 Larpenteur Ave W, St Paul, MN 55113, USA -> Walgreen Co. (dba) Walgreens #15272 (72.33)",
+   "Walmart Vision & Glasses | 8450 University Ave NE, Fridley, MN 55432, USA -> Wal-Mart Pharmacy #10-1952 (69.70)",
+   "Walmart Supercenter | 8450 University Ave NE, Fridley, MN 55432, USA -> Wal-Mart Pharmacy #10-1952 (74.75)",
+   "COVID-19 Drive-Thru Testing at Walgreens | 7940 Penn Ave S, Bloomington, MN 55431, USA -> Walgreen Co. (dba) Walgreens  (72.33)",
+   "COVID-19 Drive-thru Testing at Walgreens | 1700 Rice St, St Paul, MN 55113, USA -> Walgreen Co. (dba) Walgreens #10473 (72.33)",
+   "Walmart Supercenter | 11505 Ulysses St NE, Blaine, MN 55434, USA -> Walmart Inc. (dba) Walmart Pharmacy (#5976) (79.02)",
+   "Surburban Ace Hardware | 1930 Lexington Ave N, Roseville, MN 55113, USA -> Genoa Healthcare LLC (61.44)",
+   "CDReload by Crypto Dispensers - CVS Pharmacy | 2555 W 79th St, Minneapolis, MN 55431, USA -> Grand St. Paul CVS, LLC (dba) CVS/Pharmacy #16002 (62.12)",
+   "Concentra Urgent Care | 4080 W Broadway #200, Robbinsdale, MN 55422, USA -> Robbinsdale Pharmacy Inc (68.75)",
+   "Robbinsdale Town Center | 4080 W Broadway, Robbinsdale, MN 55422, USA -> Robbinsdale Pharmacy Inc (83.96)",
+   "COVID-19 Drive-Thru Testing at Walgreens | 2024 85th Ave N, Brooklyn Park, MN 55444, USA -> Walgreen Co. (dba) Walgreens (#02316) (72.33)",
+   "Walmart Supercenter | 8000 Lakeland Ave N, Brooklyn Park, MN 55445, USA -> Walmart Inc. (dba) Walmart Pharmacy (#10-1864) (77.53)",
+   "COVID-19 Drive-Thru Testing at Walgreens | 4100 W Broadway Walgreens, Robbinsdale, MN 55422, USA -> Walgreen Co. (dba) Walgreens #13607 (70.82)",
+   "Costco Wholesale | 11330 Fountains Dr, Maple Grove, MN 55369, USA -> Costco Wholesale Corporation (dba) Costco Pharmacy #648 (98.64)",
+   "Hy-Vee Grocery Store | 3505 Bottineau Blvd, Robbinsdale, MN 55422, USA -> Hy-Vee, Inc. (81.82)",
+   "MinuteClinic | 1515 County B Rd W, Roseville, MN 55113, USA -> Grand St. Paul CVS, LLC (dba) CVS/pharmacy #17187 (60.61)",
+   "CDReload by Crypto Dispensers - CVS Pharmacy | 1010 W Lake St, Minneapolis, MN 55408, USA -> Grand St. Paul CVS, LLC (dba) CVS/pharmacy #8285 (62.12)",
+   "CDReload by Crypto Dispensers - CVS Pharmacy | 4140 County Rd 101, Minneapolis, MN 55446, USA -> Grand St. Paul CVS, L.L.C (dba) CVS/Pharmacy #06811 (60.86)",
+   "CVS Photo | 6905 York Ave S, Edina, MN 55435, USA -> Grand St. Paul CVS, LLC (dba) CVS/Pharmacy #5788 (74.94)",
+   "Walgreens Photo | 1665 White Bear Ave, St Paul, MN 55106, USA -> Walgreen Co. (dba) Walgreens (#07388) (87.38)",
+   "CVS Photo | 880 Washington Ave SE, Minneapolis, MN 55414, USA -> Grand St. Paul CVS, L.L.C. (dba) CVS/pharmacy #8941 (77.27)",
+   "CDReload by Crypto Dispensers - CVS Pharmacy | 1000 Nicollet Mall TPS-272, Minneapolis, MN 55403, USA -> Grand St. Paul CVS, L.L.C. (dba) CVS/pharmacy #17626 (60.84)",
+   "COVID-19 Drive-Thru Testing at Walgreens | 6025 Shenandoah Ln N, Plymouth, MN 55446, USA -> Walgreen Co. (dba) Walgreens #12510 (72.33)",
+   "east metro medical supply | 217 Como Ave #169, St Paul, MN 55103, USA -> Como Pharmacy (63.95)",
+   "Hy-Vee Pickup | 3505 Bottineau Blvd, Robbinsdale, MN 55422, USA -> Hy-Vee, Inc. (83.25)",
+   "CDReload by Crypto Dispensers - CVS Pharmacy | 2650 Rice St, St Paul, MN 55113, USA -> Grand St. Paul CVS, L.L.C. (dba) CVS/pharmacy #4573 (62.12)",
+   "CDReload by Crypto Dispensers - CVS Pharmacy | 15300 Grove Cir N, Osseo, MN 55369, USA -> Grand St. Paul CVS, L.L.C. (dba) CVS/pharmacy #17273 (62.12)",
+   "CDReload by Crypto Dispensers - CVS Pharmacy | 4175 Vinewood Ln N, Minneapolis, MN 55442, USA -> Grand St. Paul CVS, L.L.C. (dba) CVS/pharmacy #16191 (62.12)",
+   "CVS Photo | 4140 County Rd 101, Plymouth, MN 55446, USA -> Grand St. Paul CVS, L.L.C (dba) CVS/Pharmacy #06811 (76.01)",
+   "Hy-Vee Grocery Store | 8200 N 42nd Ave, New Hope, MN 55427, USA -> Hy-Vee, Inc. (dba) Hy-Vee Pharmacy (#1439) (81.82)",
+   "Costco Gas Station | 12547 Riverdale Blvd, Coon Rapids, MN 55448, USA -> Costco Wholesale Corporation (dba) Costco Pharmacy #372 (69.55)",
+   "MinuteClinic at CVS | 6905 York Ave S, Edina, MN 55435, USA -> Grand St. Paul CVS, LLC (dba) CVS/Pharmacy #5788 (64.60)",
+   "CDReload by Crypto Dispensers - CVS Pharmacy | 7932 27th Ave N, Minneapolis, MN 55427, USA -> Grand St. Paul CVS, L.L.C. (dba) CVS/pharmacy #4658 (62.12)",
+   "West Bank Grocery | 417 Cedar Ave, Minneapolis, MN 55454, USA -> Cedar Pharmacy Inc. (64.90)",
+   "Target | 2500 E Lake St, Minneapolis, MN 55406, USA -> Walgreen Co. (dba) Walgreens #13841 (61.83)",
+   "Global Health Services | 912 E 24th St B225, Minneapolis, MN 55404, USA -> Barakah Business Group Inc. (dba) Darsan Pharmacy (63.10)",
+   "Walgreens Micro Fulfillment Center | 10695 Winnetka Ave N, Brooklyn Park, MN 55445, USA -> Walgreen Co. (dba) Walgreens Central Fill #21426 (87.01)",
+   "COVID-19 Drive-Thru Testing at Walgreens | 10905 Ulysses St NE, Blaine, MN 55434, USA -> Walgreen Co. (dba) Walgreens  (72.33)",
+   "NuAire Laboratory Equipment | 2100 Fernbrook Ln N, Plymouth, MN 55447, USA -> Walgreen Co. (dba) Walgreens (Specialty Pharmacy #15309) (61.94)",
+   "HmongTown Marketplace | 217 Como Ave Ste. C-69, St Paul, MN 55103, USA -> Como Pharmacy (61.82)",
+   "CDReload by Crypto Dispensers - CVS Pharmacy | 17435 County Rd 6, Minneapolis, MN 55447, USA -> Grand St. Paul CVS, L.L.C. (dba) CVS/pharmacy #11046 (62.12)",
+   "CDReload by Crypto Dispensers - CVS Pharmacy | 5537 W Broadway, Minneapolis, MN 55428, USA -> Grand St. Paul CVS, LLC (dba) CVS/Pharmacy #16000 (62.12)",
+   "Hy-Vee Fast & Fresh | 3505 Bottineau Blvd, Robbinsdale, MN 55422, USA -> Hy-Vee, Inc. (78.26)",
+   "Hy-Vee Wine & Spirits | 9409 Zane Ave N, Brooklyn Park, MN 55443, USA -> Hy-Vee, Inc. (76.36)",
+   "Hennepin Healthcare Clinic & Specialty Center | 715 S 8th St, Minneapolis, MN 55404, USA -> HCMC CSC Pharmacy (65.24)",
+   "COVID-19 Drive-Thru Testing at Walgreens | 5033 Vernon Ave S, Edina, MN 55436, USA -> Walgreen Co. (dba) Walgreens #13753 (72.33)",
+   "COVID-19 Drive-Thru Testing at Walgreens | 1133 S Robert St, West St Paul, MN 55118, USA -> Walgreen Co. (dba) Walgreens (#02805) (72.33)",
+   "COVID-19 Drive-thru Testing at Walgreens | 1665 White Bear Ave, St Paul, MN 55106, USA -> Walgreen Co. (dba) Walgreens (#07388) (71.07)",
+   "COVID-19 Drive-Thru Testing at Walgreens | 6525 University Ave NE, Fridley, MN 55432, USA -> Walgreen Co. (dba) WALGREENS (#04697) (72.33)",
+   "COVID-19 Drive-Thru Testing at Walgreens | 2860 Coon Rapids Blvd NW, Coon Rapids, MN 55433, USA -> Walgreen Co. (dba) Walgreens (#06714) (72.33)",
+   "CDReload by Crypto Dispensers - CVS Pharmacy | 1750 S Robert St, St Paul, MN 55118, USA -> Grand St. Paul CVS, L.L.C. (dba) CVS/pharmacy #17138 (62.12)",
+   "CDReload by Crypto Dispensers - CVS Pharmacy | 2080 Ford Pkwy, St Paul, MN 55116, USA -> Grand St. Paul CVS, LLC (dba) CVS/pharmacy #17675 (62.12)",
+   "Hy-Vee Wine & Spirits | 8155 Hwy 65 NE, Spring Lake Park, MN 55432, USA -> Hy-Vee, Inc. (76.36)",
+   "O'Reilly Auto Parts | 3700 Central Ave NE, Columbia Heights, MN 55421, USA -> Walgreen Co. (dba) WALGREENS (#06735) (61.99)",
+   "MinuteClinic at CVS | 4140 County Rd 101, Plymouth, MN 55446, USA -> Grand St. Paul CVS, L.L.C (dba) CVS/Pharmacy #06811 (65.68)",
+   "CVS Photo | 30 Fairview Ave S, St Paul, MN 55105, USA -> Grand St. Paul CVS, LLC (dba) CVS/Pharmacy #10902 (77.27)",
+   "CVS Photo | 4400 Oak Grove Pkwy, Brooklyn Park, MN 55443, USA -> Grand St. Paul CVS, L.L.C. (dba) CVS/pharmacy #11070 (75.91)",
+   "CDReload by Crypto Dispensers - CVS Pharmacy | 1040 Grand Ave, St Paul, MN 55105, USA -> Grand St. Paul CVS, LLC (dba) CVS/Pharmacy #5161 (62.12)",
+   "Northtown Mall | 398 Northtown Dr, Blaine, MN 55434, USA -> Walgreen Co. (dba) Walgreens #16476 (61.09)",
+   "CDReload by Crypto Dispensers - CVS Pharmacy | 1300 University Ave W, St Paul, MN 55104, USA -> Grand St. Paul CVS, LLC (dba) CVS/pharmacy #17306 (62.12)",
+   "Hy-Vee Pickup | 8200 N 42nd Ave, New Hope, MN 55427, USA -> Hy-Vee, Inc. (dba) Hy-Vee Pharmacy (#1439) (83.25)",
+   "Garmers Dental Instruments Inc | 12 27th Ave SE, Minneapolis, MN 55414, USA -> Walgreen Co (dba) Walgreens (#00828) (65.44)",
+   "Hennepin Healthcare Dentistry and Oral Surgery Clinic | 715 S 8th St level 4, Minneapolis, MN 55404, USA -> HCMC CSC Pharmacy (60.84)",
+   "Upsher-Smith Laboratories, LLC | 6701 Evenstad Dr N, Maple Grove, MN 55369, USA -> Thrifty Drug Stores, Inc. (dba) Thrifty White Pharmacy #762 (69.80)",
+   "Sam's Club Gas Station | 8150 University Ave NE, Fridley, MN 55432, USA -> Sam's West. Inc. (77.27)",
+   "Hy-Vee Pickup | 9409 Zane Ave N, Brooklyn Park, MN 55443, USA -> Hy-Vee, Inc. (83.25)",
+   "CDReload by Crypto Dispensers - CVS Pharmacy | 1515 County B Rd W, St Paul, MN 55113, USA -> Grand St. Paul CVS, LLC (dba) CVS/pharmacy #17187 (62.12)",
+   "COVID-19 Drive-Thru Testing at Walgreens | 4547 Hiawatha Ave Walgreens, Minneapolis, MN 55406, USA -> Walgreen Co. (dba) WALGREENS (#04119) (70.23)",
+   "COVID-19 Drive-Thru Testing at Walgreens | 6975 York Ave S Walgreens, Edina, MN 55435, USA -> Walgreen Co. (dba) WALGREENS (#03114) (70.51)"
+  ]
+ },
+ "C18": [
+  {
+   "name": "SUPERVALU Pharmacies, Inc., (dba) Cub Pharmacy (#1630/712)",
+   "address": "246 57th Ave NE",
+   "city": "Fridley",
+   "zip": 55432,
+   "stage": "no_raw_edge",
+   "recurrence": "repeated-name component"
+  },
+  {
+   "name": "PETNET Solutions, Inc",
+   "address": "2021 6th St Se",
+   "city": "Minneapolis",
+   "zip": 55455,
+   "stage": "only_excluded",
+   "recurrence": "single-occurrence name component"
+  },
+  {
+   "name": "Cardinal Health 414, LLC",
+   "address": "1933 West County Rd C2, Suite 100",
+   "city": "Roseville",
+   "zip": 55113,
+   "stage": "only_excluded",
+   "recurrence": "single-occurrence name component"
+  },
+  {
+   "name": "Grand St. Paul CVS, L.L.C. (dba) CVS/pharmacy #16714",
+   "address": "900 Nicollet Mall",
+   "city": "Minneapolis",
+   "zip": 55403,
+   "stage": "no_raw_edge",
+   "recurrence": "repeated-name component"
+  },
+  {
+   "name": "Grand St. Paul CVS, L.L.C. (dba) CVS/pharmacy #17626",
+   "address": "1000 Nicollet Mall, Tps-272",
+   "city": "Minneapolis",
+   "zip": 55403,
+   "stage": "only_excluded",
+   "recurrence": "repeated-name component"
+  },
+  {
+   "name": "Pediatric Home Respiratory Services, LLC (dba) Pediatric Home Service",
+   "address": "2800 Cleveland Ave N",
+   "city": "Roseville",
+   "zip": 55113,
+   "stage": "only_excluded",
+   "recurrence": "single-occurrence name component"
+  },
+  {
+   "name": "Evexia RX LLC (dba) Purescripts",
+   "address": "Evexia Rx Llc",
+   "city": "Bloomington",
+   "zip": 55437,
+   "stage": "no_raw_edge",
+   "recurrence": "single-occurrence name component"
+  },
+  {
+   "name": "HCMC Specialty Services Pharmacy",
+   "address": "Hennepin Healthcare System, Inc.",
+   "city": "Minneapolis",
+   "zip": 55415,
+   "stage": "no_raw_edge",
+   "recurrence": "single-occurrence name component"
+  },
+  {
+   "name": "PrairieCare, LLC (dba) PrairieCare",
+   "address": "9400 Zane Ave N",
+   "city": "Brooklyn Park",
+   "zip": 55443,
+   "stage": "no_raw_edge",
+   "recurrence": "single-occurrence name component"
+  },
+  {
+   "name": "Nura, PLLC",
+   "address": "2104 Northdale Blvd NW",
+   "city": "Coon Rapids",
+   "zip": 55433,
+   "stage": "no_raw_edge",
+   "recurrence": "single-occurrence name component"
+  },
+  {
+   "name": "Robbinsdale Pharmacy Inc",
+   "address": "4080 W. Broadway Ave",
+   "city": "Robbinsdale",
+   "zip": 55422,
+   "stage": "only_excluded",
+   "recurrence": "single-occurrence name component"
+  },
+  {
+   "name": "Our Lady of Peace (dba) Our Lady of Peace Home",
+   "address": "2076 St. Anthony Ave",
+   "city": "St Paul",
+   "zip": 55104,
+   "stage": "no_raw_edge",
+   "recurrence": "single-occurrence name component"
+  },
+  {
+   "name": "Walgreen Co. (dba) Walgreens #21577",
+   "address": "3030 Centre Point Drive",
+   "city": "Roseville",
+   "zip": 55113,
+   "stage": "no_raw_edge",
+   "recurrence": "repeated-name component"
+  },
+  {
+   "name": "Minnesota Medication Repository Program (dba) RoundtableRx",
+   "address": "2112 NE Broadway St. #230",
+   "city": "Minneapolis",
+   "zip": 55413,
+   "stage": "no_raw_edge",
+   "recurrence": "single-occurrence name component"
+  },
+  {
+   "name": "Walgreen Co. (dba) Walgreens Central Fill #21426",
+   "address": "10695 Winnetka Ave North",
+   "city": "Brooklyn Park",
+   "zip": 55445,
+   "stage": "only_excluded",
+   "recurrence": "repeated-name component"
+  },
+  {
+   "name": "PillPack LLC (dba) Amazon Pharmacy #013",
+   "address": "751  Douglas Drive North",
+   "city": "Golden Valley",
+   "zip": 55422,
+   "stage": "no_raw_edge",
+   "recurrence": "single-occurrence name component"
+  },
+  {
+   "name": "Open Cities Health Center Inc",
+   "address": "409 North Dunlap Street",
+   "city": "St Paul",
+   "zip": 55104,
+   "stage": "no_raw_edge",
+   "recurrence": "single-occurrence name component"
+  }
+ ],
+ "C11_overlap": {
+  "name_only": {
+   "same_board": 154,
+   "same_loc_pair": 129
+  },
+  "address_only": {
+   "same_board": 161,
+   "same_loc_pair": 156
+  },
+  "name_address": {
+   "same_board": 161,
+   "same_loc_pair": 161
+  },
+  "name_address_geo": {
+   "same_board": 160,
+   "same_loc_pair": 160
+  },
+  "max_cardinality": {
+   "same_board": 161,
+   "same_loc_pair": 161
+  },
+  "previous_setting": {
+   "same_board": 150,
+   "same_loc_pair": 150
+  }
+ }
+}

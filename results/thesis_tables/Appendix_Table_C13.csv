@@ -1,0 +1,5 @@
+﻿Candidate set and unit,Units,Links,Unmatched (workflow / Board),Precision (%),Recall (%)
+"All candidates, by Place ID","1,748",167,"1,581 / 11",9.55,93.82
+"Included records, by Place ID (primary)",413,161,252 / 17,38.98,90.45
+"All candidates, by address group","1,427",167,"1,260 / 11",11.70,93.82
+"Included records, by address group",272,161,111 / 17,59.19,90.45

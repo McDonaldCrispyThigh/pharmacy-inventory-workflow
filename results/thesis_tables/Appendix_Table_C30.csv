@@ -1,0 +1,4 @@
+﻿Scenario,Miles,n,Both within,Both beyond,W only within,B only within,Discordant n (%)
+Both sources conditionally determinate,0.5,111,101,0,0,10,10 (9.01%)
+Both sources conditionally determinate,1.0,243,238,0,0,5,5 (2.06%)
+Both sources conditionally determinate,2.0,322,322,0,0,0,0 (0.0%)

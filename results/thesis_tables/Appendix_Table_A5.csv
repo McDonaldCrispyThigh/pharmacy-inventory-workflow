@@ -1,0 +1,10 @@
+﻿Field,Values
+candidate_id,Candidate ID; must match the request
+target_construct_status,target_pharmacy or non_target
+business_status,active or inactive
+candidate_plausibility,plausible or implausible
+identity_consistency,consistent or inconsistent
+historical_year_type and historical_year_value,"explicit_archived_opening_claim, active_by_upper_bound, or unknown; year is an integer of 1600 or later, or null"
+claim_confidence,"Confidence for each of the five judgments: High, Moderate, or Low; the historical year may also take NotAssessable"
+claim_evidence_ids,Evidence IDs cited for each of the five judgments
+reasoning,"Rationale for each of the five judgments, 1–500 characters"

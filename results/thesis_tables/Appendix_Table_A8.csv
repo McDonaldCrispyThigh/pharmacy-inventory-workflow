@@ -1,0 +1,8 @@
+﻿Specification,Change from the primary analysis
+Name only,Name score Nij alone; ZIP multiplier and threshold unchanged
+Address only,Address score Aij alone; ZIP multiplier and threshold unchanged
+"Name, address, and geographic distance","Name 1.0, address 1.2, geographic distance 0.5; geographic score 100exp(−d/300), where d is the spherical distance between the two points in meters; 0 when coordinates are missing"
+Assignment objective,"Maximize the number of links first, then the total score"
+Previous setting,"Address weight 0.8, house-number points 60, ZIP multiplier 0.85, threshold 75"
+Board reference,All 245 Active records in the same frame
+Counting unit,Workflow records with the same cleaned full address and ZIP merged into one unit; the unit's name score is the highest among its members

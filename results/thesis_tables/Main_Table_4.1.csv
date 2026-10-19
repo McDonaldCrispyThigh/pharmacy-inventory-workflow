@@ -1,0 +1,15 @@
+﻿,Count,Share of all candidates (%)
+Panel A. Candidate flow,,
+All candidate Place IDs,"2,062",100.00
+Included in the workflow inventory,592,28.71
+Excluded,"1,470",71.29
+Technically unresolved,0,0.00
+Panel B. Judgments (definitions in Table 3.1),,
+Target status: target pharmacy,595,28.86
+Target status: nontarget,"1,467",71.14
+Operating status: active,"2,049",99.37
+Operating status: inactive,13,0.63
+Candidate plausibility: plausible,"1,302",63.14
+Candidate plausibility: implausible,760,36.86
+Identity consistency: consistent,"1,986",96.31
+Identity consistency: inconsistent,76,3.69

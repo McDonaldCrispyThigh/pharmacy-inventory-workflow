@@ -1,0 +1,7 @@
+﻿State,Meaning
+archive_content_available,At least one page passed binding and parsing and supplied usable text
+snapshot_confirmed_but_fetch_failed,Snapshot confirmed; raw page retrieval failed
+archive_content_unusable,Retrieved pages lacked usable text after parsing
+no_snapshot_in_bounded_lookup,"Lookups at all seven dates completed, and the returned results lacked an eligible snapshot"
+no_website,Website field empty or URL invalid
+discovery_failure,Snapshot lookup technically incomplete

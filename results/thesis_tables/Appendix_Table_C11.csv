@@ -1,0 +1,8 @@
+﻿Specification,Links,Unmatched (workflow / Board),Precision (%),Recall (%),Links shared with primary
+Name and address (primary),161,252 / 17,38.98,90.45,161
+Name only,161,252 / 17,38.98,90.45,129
+Address only,162,251 / 16,39.23,91.01,156
+"Name, address, and geographic distance",161,252 / 17,38.98,90.45,160
+"Maximum links, then maximum total score",161,252 / 17,38.98,90.45,161
+"Previous setting (0.8, 60, 0.85, 75)",150,263 / 28,36.32,84.27,150
+Location grouping,161,111 / 17,59.19,90.45,—

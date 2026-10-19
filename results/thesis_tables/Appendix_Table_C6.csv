@@ -1,0 +1,13 @@
+﻿Cohort,Judgment,n,High,Moderate,Low
+Original,Operating status,1226,1136 (92.66%),90 (7.34%),0 (0.00%)
+Original,Candidate plausibility,1226,1115 (90.95%),111 (9.05%),0 (0.00%)
+Original,Identity consistency,1226,1087 (88.66%),134 (10.93%),5 (0.41%)
+Original,Target-pharmacy status,1226,1039 (84.75%),187 (15.25%),0 (0.00%)
+Suppl.,Operating status,836,762 (91.15%),74 (8.85%),0 (0.00%)
+Suppl.,Candidate plausibility,836,790 (94.50%),46 (5.50%),0 (0.00%)
+Suppl.,Identity consistency,836,751 (89.83%),85 (10.17%),0 (0.00%)
+Suppl.,Target-pharmacy status,836,753 (90.07%),83 (9.93%),0 (0.00%)
+Combined,Operating status,2062,1898 (92.05%),164 (7.95%),0 (0.00%)
+Combined,Candidate plausibility,2062,1905 (92.39%),157 (7.61%),0 (0.00%)
+Combined,Identity consistency,2062,1838 (89.14%),219 (10.62%),5 (0.24%)
+Combined,Target-pharmacy status,2062,1792 (86.91%),270 (13.09%),0 (0.00%)

@@ -1,0 +1,6 @@
+surface,surface_status,input_rows,valid_coordinate_rows,missing_coordinate_rows,both_missing_coordinate_rows,partial_missing_coordinate_rows,nonnumeric_coordinate_rows,nonfinite_coordinate_rows,out_of_range_coordinate_rows,invalid_coordinate_rows
+board_all_active,ok,447,383,64,64,0,0,0,0,64
+board_screened,ok,346,307,39,39,0,0,0,0,39
+board_screened_exact,ok,237,237,0,0,0,0,0,0,0
+google_include,ok,592,592,0,0,0,0,0,0,0
+google_include_unresolved,ok,592,592,0,0,0,0,0,0,0

@@ -1,0 +1,26 @@
+{
+ "screened_target|original": {
+  "board_rows": 178,
+  "links": 150,
+  "recall": 84.27,
+  "precision": 36.32
+ },
+ "screened_target|calibrated": {
+  "board_rows": 178,
+  "links": 161,
+  "recall": 90.45,
+  "precision": 38.98
+ },
+ "full_active_target|original": {
+  "board_rows": 245,
+  "links": 179,
+  "recall": 73.06,
+  "precision": 43.34
+ },
+ "full_active_target|calibrated": {
+  "board_rows": 245,
+  "links": 198,
+  "recall": 80.82,
+  "precision": 47.94
+ }
+}

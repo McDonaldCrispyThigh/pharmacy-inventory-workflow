@@ -1,0 +1,5 @@
+﻿Judgment,Question answered from the evidence packet,Label needed for inclusion,Other label
+Target status,"Does the listing name one current, public-facing outlet or pharmacy department that dispenses prescriptions? A listing for a whole grocery store or hospital is judged as its own unit.",Target pharmacy,Nontarget
+Operating status,Is the establishment currently in business?,Active,Inactive
+Candidate plausibility,Is the listing a plausible candidate record? The prompt supplied only the two labels.,Plausible,Implausible
+Identity consistency,Do the website pages and reviews describe the same establishment as the listing?,Consistent,Inconsistent

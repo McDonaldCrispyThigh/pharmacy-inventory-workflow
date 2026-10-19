@@ -1,0 +1,10 @@
+﻿Miles,Weighting,Denominator weight / n,Discordant weight / n,Discordance (%)
+0.5,Household weighted,"516,929","79,614",15.40
+0.5,Population weighted,"1,236,243","179,103",14.49
+0.5,Unweighted,327,48,14.68
+1.0,Household weighted,"516,929","71,348",13.80
+1.0,Population weighted,"1,236,243","175,533",14.20
+1.0,Unweighted,327,46,14.07
+2.0,Household weighted,"516,929","6,771",1.31
+2.0,Population weighted,"1,236,243","19,745",1.60
+2.0,Unweighted,327,4,1.22

@@ -1,0 +1,123 @@
+{
+  "schema_version": 1,
+  "hash_algorithm": "sha256",
+  "entry_count": 9,
+  "scope": "Frozen downstream inputs for the pharmacy empirical test case; no NETS or NPPES input, comparison, or reproduction",
+  "analysis_contract": {
+    "empirical_test_case": "Pharmacy establishments",
+    "authorized_workflow": "Google Places candidate retrieval, stored LLM-derived candidate labels, automatic Board eligibility, deterministic linkage, the Board screen as an operational reference, and paired tract-level projected straight-line potential-proximity sensitivity",
+    "reproducibility_boundary": "Byte-authenticated frozen downstream transformation only; this manifest does not establish end-to-end acquisition provenance",
+    "source_universe_limitation": "The Google candidate-and-label universe and the active Board license-and-eligibility universe have different inclusion mechanisms and are not assumed to be symmetric",
+    "historical_sensitivity_boundary": "Outcome-conditioned historical sensitivity files reconstruct only a legacy denominator and are not a primary operational reference"
+  },
+  "inputs": [
+    {
+      "path": "data/Minneapolis-StPaul_pharmacy_20260413_201606.csv",
+      "sha256": "1ddf4c16ab3a02e49737ef8eee8a631b5e3e747f6827a11822aeeb529ea6606f",
+      "bytes": 290325,
+      "rows": 399,
+      "role": "Frozen Google Places candidate snapshot for the pharmacy test case, with stored LLM-derived target labels, coordinates, and address fields",
+      "vintage": {
+        "value": "20260413_201606",
+        "basis": "filename timestamp"
+      },
+      "status": "frozen downstream snapshot; no stable Place ID, query log, raw response, or machine-readable coordinate CRS metadata is present, so this is not end-to-end retrieval provenance; Latitude/Longitude are interpreted as EPSG:4326"
+    },
+    {
+      "path": "data/board_geocoded.csv",
+      "sha256": "aaea04df2f5131e84a4f08f4179ad1bcd2e0319122e2d0dce8d38a14e161cd6e",
+      "bytes": 99472,
+      "rows": 459,
+      "role": "Frozen coordinate cache joined by Board license number after the raw Board frame is rebuilt",
+      "vintage": {
+        "value": null,
+        "basis": "not recorded in filename"
+      },
+      "status": "frozen local cache; producer script, execution provenance, and machine-readable coordinate CRS metadata are absent; _lat/_lon are interpreted as EPSG:4326"
+    },
+    {
+      "path": "data/Board/F.1  Pharmacy (PH).csv",
+      "sha256": "97c94e1c82f6982b174864512ecd0ee3dac4da46208fee890bfb8f2aa388100b",
+      "bytes": 350193,
+      "rows": 2171,
+      "role": "Raw Board export used to reconstruct the automatically eligible active Minnesota pharmacy operational-reference frame",
+      "vintage": {
+        "value": "2026-04-13T12:00:22",
+        "basis": "report_datetime field in the raw file preamble"
+      },
+      "status": "local raw export; downstream frame and eligibility rules are deterministic"
+    },
+    {
+      "path": "data/tl_2023_27_tract.zip",
+      "sha256": "be73512bec4712f7640517ce20ee48cf1d40396e989b8e1f10e6c11ccccd13ef",
+      "bytes": 7490390,
+      "rows": null,
+      "role": "Minnesota census-tract geometry archive for tract origins and spatial joins",
+      "vintage": {
+        "value": "2023",
+        "basis": "filename"
+      },
+      "status": "frozen local TIGER/Line archive"
+    },
+    {
+      "path": "data/tl_2023_us_zcta520.zip",
+      "sha256": "7bd6bf8c29a9220e91ab546eb97b53f4b45096b1f7c248b3e6b4f86dca4b87d8",
+      "bytes": 528313293,
+      "rows": null,
+      "role": "National ZCTA520 geometry archive used to define and audit the ZIP-based collection frame",
+      "vintage": {
+        "value": "2023",
+        "basis": "filename"
+      },
+      "status": "frozen local TIGER/Line archive"
+    },
+    {
+      "path": "data/acs_tracts_2023.csv",
+      "sha256": "7e1265722a24a8411f0617a3985c88dac6519fa28f914e9c60f2b950866fba06",
+      "bytes": 46637,
+      "rows": 472,
+      "role": "Tract-level demographic, population, housing, and income attributes",
+      "vintage": {
+        "value": "2023",
+        "basis": "filename"
+      },
+      "status": "frozen local table; query parameters, margins of error, and complete acquisition provenance are absent"
+    },
+    {
+      "path": "data/acs_tracts_vehicles_2023.csv",
+      "sha256": "0ce7b9bdde48fd0b7ab3f115ecd1e8bf220130fd7cf4b1aa64c3ff6b5c8271ee",
+      "bytes": 13264,
+      "rows": 472,
+      "role": "Tract-level household and no-vehicle attributes",
+      "vintage": {
+        "value": "2023",
+        "basis": "filename"
+      },
+      "status": "frozen local table; query parameters, margins of error, and complete acquisition provenance are absent"
+    },
+    {
+      "path": "data/audit3_fn_institutional_20260414_172017.csv",
+      "sha256": "a05d9b66b4fd89542a6a1454dc700c5da46321811db1a90be43eea1649fd2ad3",
+      "bytes": 28000,
+      "rows": 134,
+      "role": "Historical outcome-conditioned institutional classification used only to reconstruct the legacy 405-record sensitivity denominator",
+      "vintage": {
+        "value": "20260414_172017",
+        "basis": "filename timestamp"
+      },
+      "status": "historical outcome-conditioned sensitivity input only; excluded from and never substituted for the primary operational-reference definition"
+    },
+    {
+      "path": "data/board_fn_20260414_170601.csv",
+      "sha256": "50538ad99d7be2aa758cd793e26f17e9b28a16e74241d75b97b534bff58add23",
+      "bytes": 27500,
+      "rows": 138,
+      "role": "Historical false-negative table used only to reconstruct the legacy 405-record sensitivity denominator",
+      "vintage": {
+        "value": "20260414_170601",
+        "basis": "filename timestamp"
+      },
+      "status": "historical outcome-conditioned sensitivity input only; excluded from and never substituted for the primary operational-reference definition"
+    }
+  ]
+}

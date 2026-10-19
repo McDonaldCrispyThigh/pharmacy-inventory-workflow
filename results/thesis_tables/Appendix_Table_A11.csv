@@ -1,0 +1,13 @@
+﻿Directory or file,Contents
+data/clean_archive/20260906T040605Z,Snapshot discovery and raw page retrieval for the original cohort
+data/clean_archive_closure/20260907_closure_v1,Archive closure and candidate evidence packets for the original cohort
+data/clean_classification/20260907T192546Z,"Model inputs, responses, and checkpoints for the original cohort"
+data/clean_classification_closure/20260907_closure_v1,"Final classifications and technical closure for the original 1,226 candidates"
+data/supplemental_836/20260907_v1,"Place Details, archive evidence, and final classifications for the 836 supplemental candidates"
+analysis/expanded_final/20260908_v1,"RQ1 summaries, RQ2 outputs under the previous setting, and implementation snapshots"
+analysis/rq3_common_supply/20260908_v2,"RQ3 common supply frame, sensitivity analyses, and verification"
+analysis/rq2_oat/20261007_v2,"Frozen pair score components (311,144 pairs) and one-at-a-time sensitivity analysis under the previous setting"
+analysis/rq2_oat/20261012_v3_factorial,"Parameter calibration, sensitivity analysis of 3,087 combinations, and RQ2 results under the primary setting (A.5.6; Tables C11–C19 and C31–C33; Figure 4.1)"
+analysis/input_manifest.json,"Paths, hashes, roles, and data vintages of frozen inputs"
+"code/run_expanded_rq1.py, code/run_expanded_final.py, code/run_common_supply_rq3.py","Downstream calculation entry points for RQ1, RQ2, and RQ3"
+"requirements-analysis.txt, requirements.txt",Dependency versions

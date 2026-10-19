@@ -1,0 +1,19 @@
+source,recurrence_threshold,group_code,group,records,distinct_name_components,linked_records,linked_pct,cluster_bootstrap_95_low_pct,cluster_bootstrap_95_high_pct
+Board keyword-screen reference,2,repeated,repeated-name component,131,7,126,96.18,95.28,98.51
+Board keyword-screen reference,2,below_threshold,single-occurrence name component,47,47,35,74.47,61.7,87.23
+Board keyword-screen reference,2,unresolved,unresolved,0,0,0,,,
+Workflow inventory locations,2,repeated,repeated-name component,266,24,123,46.24,23.89,58.7
+Workflow inventory locations,2,below_threshold,single-occurrence name component,146,144,38,26.03,19.31,33.33
+Workflow inventory locations,2,unresolved,unresolved,1,1,0,0.0,,
+Board keyword-screen reference,3,repeated,repeated-name component,129,6,124,96.12,95.19,98.39
+Board keyword-screen reference,3,below_threshold,below-threshold name component,49,48,37,75.51,63.27,87.5
+Board keyword-screen reference,3,unresolved,unresolved,0,0,0,,,
+Workflow inventory locations,3,repeated,repeated-name component,246,14,121,49.19,26.86,62.92
+Workflow inventory locations,3,below_threshold,below-threshold name component,166,154,40,24.1,17.58,30.95
+Workflow inventory locations,3,unresolved,unresolved,1,1,0,0.0,,
+Board keyword-screen reference,5,repeated,repeated-name component,129,6,124,96.12,95.19,98.48
+Board keyword-screen reference,5,below_threshold,below-threshold name component,49,48,37,75.51,63.27,87.76
+Board keyword-screen reference,5,unresolved,unresolved,0,0,0,,,
+Workflow inventory locations,5,repeated,repeated-name component,231,9,121,52.38,33.04,67.6
+Workflow inventory locations,5,below_threshold,below-threshold name component,181,159,40,22.1,15.82,28.49
+Workflow inventory locations,5,unresolved,unresolved,1,1,0,0.0,,

@@ -1,0 +1,13 @@
+﻿Panel / outcome,Count,"Percent of 2,062"
+All candidate Place IDs,2062,100.00
+Included,592,28.71
+Excluded,1470,71.29
+Technical-unresolved,0,0.00
+Target pharmacy,595,28.86
+Non-target,1467,71.14
+Active,2049,99.37
+Inactive,13,0.63
+Plausible,1302,63.14
+Implausible,760,36.86
+Identity consistent,1986,96.31
+Identity inconsistent,76,3.69

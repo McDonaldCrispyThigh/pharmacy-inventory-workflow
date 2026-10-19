@@ -1,0 +1,4 @@
+scenario,threshold_miles,origins,both_within,both_beyond,workflow_only_within,board_only_within,discordant,discordance_pct
+primary_google_include_vs_board_screened,0.5,327,101,178,38,10,48,14.68
+primary_google_include_vs_board_screened,1.0,327,238,43,41,5,46,14.07
+primary_google_include_vs_board_screened,2.0,327,322,1,4,0,4,1.22

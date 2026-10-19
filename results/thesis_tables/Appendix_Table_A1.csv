@@ -1,0 +1,7 @@
+﻿Frame,Definition,Count and role
+Candidate,Unique Place IDs returned by the original and supplemental searches,"2,062 (1,226 + 836); RQ1"
+Search,Target ZIPs used with the three search terms,60 ZIPs
+Primary linkage,Workflow returned-address ZIP and Board mailing ZIP both fall in the target set,60 ZIPs; RQ2
+Spatial origins,Census tracts in Hennepin and Ramsey Counties whose median household income and household count are positive and whose TIGER internal point lies in the target ZCTA union,327 tracts
+Common supply,Union of the target ZIPs and the valid five-digit ZIPs returned for all candidates,102 ZIPs; RQ3
+Boundary geometry,ZCTA polygons corresponding to the common supply ZIPs,101 polygons; 55144 lacks a corresponding polygon in the selected product

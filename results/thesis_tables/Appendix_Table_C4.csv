@@ -1,0 +1,7 @@
+﻿Archive state,Original,Supplemental,Combined
+Parsed archive content available,653,475,1128
+Archive content unusable,33,23,56
+Discovery failure,0,4,4
+No snapshot in bounded lookup,400,255,655
+No usable website,138,74,212
+Snapshot confirmed; fetch failed,2,5,7

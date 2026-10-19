@@ -1,0 +1,8 @@
+﻿Listing type,Records,Examples,Treated as
+Parent store (grocery or general merchandise),38,"Cub (18), Target (16), Walmart Supercenter (2), Hy-Vee (2)",Classification error
+Photo department,11,"Walgreens Photo (9), CVS Photo (2)",Classification error
+COVID-19 testing site,9,COVID-19 Drive-Thru Testing at Walgreens,Classification error
+Individual,3,Personal listings of pharmacists or other individuals,Classification error
+Drugstore brand listing,33,"Walgreens (22), CVS (11)",Pharmacy listing
+Pharmacy listing,31,"CVS Pharmacy, Cub Pharmacy, independent pharmacies",Pharmacy listing
+Total,125,,61 classification errors

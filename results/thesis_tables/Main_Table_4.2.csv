@@ -1,0 +1,4 @@
+﻿Comparison,Workflow records or address groups,Precision (%),Recall (%)
+Before model screening (all raw candidates),"1,748",9.55,93.82
+After model screening (main result),413,38.98,90.45
+"After model screening, records at the same address counted once",272,59.19,90.45

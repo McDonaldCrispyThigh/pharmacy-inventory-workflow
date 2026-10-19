@@ -1,0 +1,14 @@
+﻿Cutoff,Source,Group,n,Linked,Percent,95% interval
+2,Board,Repeated,131,126,96.18,95.28–98.51
+2,Board,Single-occurrence,47,35,74.47,61.70–87.23
+2,Workflow,Repeated,266,123,46.24,23.89–58.70
+2,Workflow,Single-occurrence,146,38,26.03,19.31–33.33
+2,Workflow,Unresolved signature,1,0,0.00,—
+3,Board,Repeated,129,124,96.12,95.19–98.39
+3,Board,Below cutoff,49,37,75.51,63.27–87.50
+3,Workflow,Repeated,246,121,49.19,26.86–62.92
+3,Workflow,Below cutoff,166,40,24.10,17.58–30.95
+5,Board,Repeated,129,124,96.12,95.19–98.48
+5,Board,Below cutoff,49,37,75.51,63.27–87.76
+5,Workflow,Repeated,231,121,52.38,33.04–67.60
+5,Workflow,Below cutoff,181,40,22.10,15.82–28.49

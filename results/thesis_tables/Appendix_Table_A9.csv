@@ -1,0 +1,7 @@
+﻿Variable,Use
+B19013_001E,Median household income
+B03002_001E,Total population; used for population weights and as the composition denominator
+B03002_003E,Non-Hispanic White-alone population
+100 × (B03002_001E − B03002_003E) / B03002_001E,"Percentage non-White, including Hispanic residents of any race"
+B08201_001E,"Households; used for origin eligibility, household weights, and the vehicle-measure denominator"
+B08201_002E / B08201_001E,No-vehicle household share
