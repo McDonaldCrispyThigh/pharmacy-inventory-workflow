@@ -1,19 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" role="img" aria-labelledby="t d">
-  <title id="t">Pharmacy inventory workflow</title>
-  <desc id="d">Two overlapping map pins, blue for the workflow list and orange for the Board registry; their overlap, where records match, carries a pharmacy cross. Two rings at the base stand for the half-mile and one-mile proximity thresholds.</desc>
-  <defs>
-    <path id="pin-wf" d="M100 200 L147.2 133.6 A58 58 0 1 0 52.8 133.6 Z"/>
-    <path id="pin-bd" d="M156 200 L203.2 133.6 A58 58 0 1 0 108.8 133.6 Z"/>
-    <clipPath id="clip-bd"><use href="#pin-bd"/></clipPath>
-  </defs>
-  <!-- proximity thresholds (0.5 and 1 mile) -->
-  <ellipse cx="128" cy="212" rx="118" ry="27" fill="none" stroke="#14b8a6" stroke-width="5" stroke-opacity=".38"/>
-  <ellipse cx="128" cy="212" rx="82" ry="17" fill="none" stroke="#14b8a6" stroke-width="5" stroke-opacity=".72"/>
-  <!-- two inventories -->
-  <use href="#pin-wf" fill="#2b7cf0"/>
-  <use href="#pin-bd" fill="#f59a14"/>
-  <!-- matched records -->
-  <use href="#pin-wf" fill="#0e9f8e" clip-path="url(#clip-bd)"/>
-  <!-- pharmacy -->
-  <path d="M122 84 h12 a2.5 2.5 0 0 1 2.5 2.5 v14 h14 a2.5 2.5 0 0 1 2.5 2.5 v12 a2.5 2.5 0 0 1 -2.5 2.5 h-14 v14 a2.5 2.5 0 0 1 -2.5 2.5 h-12 a2.5 2.5 0 0 1 -2.5 -2.5 v-14 h-14 a2.5 2.5 0 0 1 -2.5 -2.5 v-12 a2.5 2.5 0 0 1 2.5 -2.5 h14 v-14 a2.5 2.5 0 0 1 2.5 -2.5 z" fill="#ffffff"/>
+<title id="t">Pharmacy inventory workflow</title>
+<desc id="d">A solid blue disc and an offset ochre ring of the same size: one place recorded by two sources, slightly out of register. Blue is the workflow inventory and ochre the reference registry, as in the thesis figures.</desc>
+<path d="M68.55 169.79 A76.00 76.00 0 1 1 169.79 68.55 A3.04 3.04 0 0 1 166.62 72.87 A82.84 82.84 0 0 0 72.87 166.62 A3.04 3.04 0 0 1 68.55 169.79 Z" fill="#1f4f78"/>
+<path d="M111.14 176.47 A76.00 76.00 0 0 0 176.47 111.14 A3.04 3.04 0 0 0 174.63 107.94 A50.92 50.92 0 0 0 107.94 174.63 A3.04 3.04 0 0 0 111.14 176.47 Z" fill="#1f4f78"/>
+<circle cx="154.87" cy="154.87" r="66.88" fill="none" stroke="#c9822b" stroke-width="18.24"/>
 </svg>

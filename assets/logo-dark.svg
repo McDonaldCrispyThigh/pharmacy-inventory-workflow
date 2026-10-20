@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" role="img" aria-labelledby="t d">
+<title id="t">Pharmacy inventory workflow</title>
+<desc id="d">A solid blue disc and an offset ochre ring of the same size: one place recorded by two sources, slightly out of register. Blue is the workflow inventory and ochre the reference registry, as in the thesis figures.</desc>
+<path d="M68.55 169.79 A76.00 76.00 0 1 1 169.79 68.55 A3.04 3.04 0 0 1 166.62 72.87 A82.84 82.84 0 0 0 72.87 166.62 A3.04 3.04 0 0 1 68.55 169.79 Z" fill="#7faacb"/>
+<path d="M111.14 176.47 A76.00 76.00 0 0 0 176.47 111.14 A3.04 3.04 0 0 0 174.63 107.94 A50.92 50.92 0 0 0 107.94 174.63 A3.04 3.04 0 0 0 111.14 176.47 Z" fill="#7faacb"/>
+<circle cx="154.87" cy="154.87" r="66.88" fill="none" stroke="#d3a75c" stroke-width="18.24"/>
+</svg>

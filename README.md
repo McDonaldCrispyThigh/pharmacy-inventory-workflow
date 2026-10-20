@@ -1,5 +1,8 @@
 <p align="center">
-  <img src="assets/logo.svg" width="168" alt="Logo: two overlapping map pins, blue and orange, whose overlap carries a pharmacy cross, standing on two distance rings">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/logo-dark.svg">
+    <img src="assets/logo.svg" width="168" alt="Logo: a solid blue disc and an offset ochre ring of the same size">
+  </picture>
 </p>
 
 <h1 align="center">Pharmacy Inventory Workflow</h1>
@@ -55,7 +58,7 @@ The provenance record does not document how or when the Board coordinate cache w
 
 ## About the logo
 
-The two pins are the two inventories: blue for the workflow list and orange for the Board registry, the colors used in the thesis figures. Their overlap, where records match, carries the pharmacy cross, and the rings at the base are the half-mile and one-mile proximity thresholds. `assets/logo-icon.svg` drops the rings for small sizes, and `assets/social-preview.png` is a 1280 × 640 banner for link previews.
+The mark is one place recorded by two sources, slightly out of register. The solid disc is the workflow inventory and the ring is the reference registry, in the steel blue and ochre of the thesis figures; the offset between them is the gap the thesis measures. Disc and ring share one radius, the ring's center sits on the disc's edge, and the disc is cut back from the ring by a constant gap. `assets/logo-dark.svg` is the dark-theme version, the `logo-icon` files are cropped tightly for small sizes, and `assets/social-preview.png` is a 1280 × 640 banner for link previews.
 
 ## License
 
