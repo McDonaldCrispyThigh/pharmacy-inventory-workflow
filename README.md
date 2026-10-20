@@ -1,4 +1,10 @@
-# Pharmacy inventory workflow
+<p align="center">
+  <img src="assets/logo.svg" width="168" alt="Logo: two overlapping map pins, blue and orange, whose overlap carries a pharmacy cross, standing on two distance rings">
+</p>
+
+<h1 align="center">Pharmacy Inventory Workflow</h1>
+
+<p align="center"><em>From digital listings to neighborhood measurement</em></p>
 
 Code, prompts, and derived results for the honors thesis *From Digital Listings to Neighborhood Measurement: An Evidence-Guided Workflow to Build and Validate Pharmacy Inventories* (Congyuan (Othello) Zheng, Department of Geography, University of Colorado Boulder, 2026).
 
@@ -46,6 +52,10 @@ Not included:
 - 2019–2023 ACS estimates and 2023 TIGER/Line geometries, which are public from the U.S. Census Bureau.
 
 The provenance record does not document how or when the Board coordinate cache was produced.
+
+## About the logo
+
+The two pins are the two inventories: blue for the workflow list and orange for the Board registry, the colors used in the thesis figures. Their overlap, where records match, carries the pharmacy cross, and the rings at the base are the half-mile and one-mile proximity thresholds. `assets/logo-icon.svg` drops the rings for small sizes, and `assets/social-preview.png` is a 1280 × 640 banner for link previews.
 
 ## License
 

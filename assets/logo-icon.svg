@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="34 34 188 188" width="188" height="188" role="img" aria-labelledby="t d">
+  <title id="t">Pharmacy inventory workflow</title>
+  <desc id="d">Two overlapping map pins, blue for the workflow list and orange for the Board registry; their overlap, where records match, carries a pharmacy cross.</desc>
+  <defs>
+    <path id="pin-wf" d="M100 200 L147.2 133.6 A58 58 0 1 0 52.8 133.6 Z"/>
+    <path id="pin-bd" d="M156 200 L203.2 133.6 A58 58 0 1 0 108.8 133.6 Z"/>
+    <clipPath id="clip-bd"><use href="#pin-bd"/></clipPath>
+  </defs>
+  <!-- two inventories -->
+  <use href="#pin-wf" fill="#2b7cf0"/>
+  <use href="#pin-bd" fill="#f59a14"/>
+  <!-- matched records -->
+  <use href="#pin-wf" fill="#0e9f8e" clip-path="url(#clip-bd)"/>
+  <!-- pharmacy -->
+  <path d="M122 84 h12 a2.5 2.5 0 0 1 2.5 2.5 v14 h14 a2.5 2.5 0 0 1 2.5 2.5 v12 a2.5 2.5 0 0 1 -2.5 2.5 h-14 v14 a2.5 2.5 0 0 1 -2.5 2.5 h-12 a2.5 2.5 0 0 1 -2.5 -2.5 v-14 h-14 a2.5 2.5 0 0 1 -2.5 -2.5 v-12 a2.5 2.5 0 0 1 2.5 -2.5 h14 v-14 a2.5 2.5 0 0 1 2.5 -2.5 z" fill="#ffffff"/>
+</svg>
